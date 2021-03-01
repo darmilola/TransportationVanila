@@ -1,0 +1,67 @@
+.travel_item {
+  width: 90%;
+  height: 180px;
+  background-color: #f4f4f4;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.travel_route {
+  font-family: "Larsseit";
+  font-size: 20px;
+  color: rgb(10, 4, 14);
+  font-family: "Larsseit";
+  width: 100%;
+  padding-top: 10px;
+  color: #09030a;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+.travel_time {
+  font-family: "Larsseit";
+  font-size: 20px;
+  color: rgb(12, 145, 45);
+  font-family: "Larsseit";
+  width: 100%;
+  padding-top: 10px;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+.fare_price {
+  font-family: "Larsseit";
+  font-size: 20px;
+  color: rgb(10, 4, 14);
+  font-family: "Larsseit";
+  width: 100%;
+  padding-top: 10px;
+  color: #09030a;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+.travel_agent {
+  font-family: "Larsseit";
+  font-size: 20px;
+  font-family: "Larsseit";
+  width: 100%;
+  padding-top: 10px;
+  color: #fa2d65;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+.date {
+  font-family: "Larsseit";
+  font-size: 20px;
+  font-family: "Larsseit";
+  width: 100%;
+  padding-top: 10px;
+  color: #09518b;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
